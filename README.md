@@ -5,4 +5,5 @@ Simple responsive image gallery built with HTML, CSS and JavaScript.
 - Tech: HTML, CSS, Vanilla JS
 - Author: Mohamed Saeed Hassan Elzeny
 
-Live demo: ()
+Live demo: (https://mohamedelzeny.github.io/CodeAlpha_ImageGallery/)
+
